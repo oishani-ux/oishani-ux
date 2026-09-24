@@ -17,7 +17,7 @@ Currently working on Skycast with python<br>Currently learning Django and Flask.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=oishani-ux&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote of the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo

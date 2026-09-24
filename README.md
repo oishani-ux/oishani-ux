@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:ff6ec4,35:7873f5,70:4ADEDE,100:f9d423&height=220&section=header&text=Hi,%20I'm%20Oishani%20👋&fontSize=48&fontColor=ffffff&animation=twinkling&stroke=ffffff&strokeWidth=1)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF6EC4&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer+%F0%9F%90%8D;Learning+Django+%26+Flask+%F0%9F%9A%80;Building+Skycast+%E2%98%81%EF%B8%8F;Coffee+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F;Always+learning+something+new+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF6EC4&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer+%F0%9F%90%8D;Learning+React+Django+%26+Flask+%F0%9F%9A%80;Working+on+Web+Developmentt+%E2%98%81%EF%B8%8F;Coffee+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F;Always+learning+something+new+%E2%9C%A8" />
 </p>
 
 <p align="center">

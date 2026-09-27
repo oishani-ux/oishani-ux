@@ -62,26 +62,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oishani-ux&theme=radical" />
 </p>
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oishani-ux&bg_color=141321&color=ff6ec4&line=7873f5&point=4ADEDE&area=true&area_color=7873f5&hide_border=true" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=oishani-ux&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/oishani-ux/oishani-ux/output/github-snake-dark.svg" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6ec4,35:7873f5,70:4ADEDE,100:f9d423&height=5" width="100%" />
-
 ## ✍️ Quote of the Day
 
 <p align="center">
